@@ -1,7 +1,8 @@
 # SHG-Analysis
 This repo contains the files and scripts used in my attempt at the Splendor Hotel Group Analysis. The idea behind this project is to demonstrate my SQL, Tableau, business intelligence skills.
 
-![Business dashboard](https://github.com/TobyTobi/SHG-Analysis/assets/102298244/f7a28af9-68e9-4183-af74-eedc01097706)
+![SHG dashboard](https://github.com/TobyTobi/SHG-Analysis/assets/102298244/eaa6a46c-afff-436d-88fe-1f258d9c2b75)
+
 
 The full interactive dashboard can be found [here](https://public.tableau.com/app/profile/tobiloba.babajide/viz/SHGDashboard_17012996593220/Revenue)
 
