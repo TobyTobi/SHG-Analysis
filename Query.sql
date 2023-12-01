@@ -97,7 +97,7 @@ WHERE [Lead Time] < 0
 	OR Guests <= 0
 	AND Status NOT IN ('Canceled', 'No Show');
 -- There was only one case (Booking ID 14970) where guests showed up and stayed and revenue was negative.
--- We have to correct that to make it positive because this was clearly an error
+-- Correct that to make it positive because this was clearly an error
 
 UPDATE SHG
 SET Revenue = Revenue * -1, [Avg Daily Rate] = [Avg Daily Rate] * -1
