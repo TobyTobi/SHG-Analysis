@@ -4,10 +4,6 @@
 -- View the data table
 SELECT * FROM SHG;
 
--- Drop F18 column
-ALTER TABLE SHG
-DROP COLUMN F18;
-
 -- Unique values in Hotel column
 SELECT DISTINCT Hotel
 FROM SHG;
