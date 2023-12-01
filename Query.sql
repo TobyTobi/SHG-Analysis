@@ -95,7 +95,7 @@ WHERE [Lead Time] < 0
 	OR Nights < 0
 	OR [Avg Daily Rate] < 0
 	OR Guests <= 0
-	AND Status NOT IN ('Check Out', 'Canceled', 'No Show');
+	AND Status NOT IN ('Canceled', 'No Show');
 -- There was only one case (Booking ID 14970) where guests showed up and stayed and revenue was negative.
 -- We have to correct that to make it positive because this was clearly an error
 
