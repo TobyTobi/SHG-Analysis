@@ -26,7 +26,7 @@ Several steps were taken to clean the data including:
 5. Checking for duplicates
 
 ### DATA ANALYSIS
-Then, I went ahead to answer the business questions that were posed in the Project brief using several SQL fucntions:
+Then, I went ahead to answer the business questions that were posed in the Project brief using several SQL functions:
 1. Aggregate functions e.g. ```COUNT()```and ```SUM()```
 2. Window functions e.g. ```ROW_NUMBER()```
 3. Date functions e.g. ```YEAR()``` and ```MONTH()```
@@ -44,3 +44,4 @@ Finally, I created the business intelligence dashboard using Tableau where I mad
 4. BANs creation for easy-to-understand KPIs
 5. Color selection
 6. Calculated fields e.g. conditional logic, date functions
+7. Call to Action
