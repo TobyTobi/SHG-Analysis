@@ -38,7 +38,7 @@ Then, I went ahead to answer the business questions that were posed in the Proje
 
 ### BUSINESS DASHBOARD CREATION
 Finally, I created the business intelligence dashboard using Tableau where I made use of the following features:
-1. Parameter actions to create filters
+1. Parameter actions to create slicers
 2. Navigation buttons to move between dashboard pages
 3. Custom shapes and icons
 4. BANs creation for easy-to-understand KPIs
